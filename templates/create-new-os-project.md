@@ -18,6 +18,7 @@ permalink: claude-code-os/templates/create-new-os-project
 │   └── tech-standards.md
 ├── stage-testing/
 │   └── task-list-and-status.md
+├── future-backlogs.md
 └── kanban-board.md
 ```
 

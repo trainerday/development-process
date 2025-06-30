@@ -29,3 +29,5 @@ permalink: [os-project-name]/kanban-board
 
 ## Usage
 When creating a new OS project, this template will be used to generate `kanban-board.md` in the project root with the correct permalink based on the project name.
+
+**IMPORTANT**: Always ensure the kanban board file has the `.md` extension so it's visible in Obsidian.

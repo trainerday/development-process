@@ -11,10 +11,14 @@
             "id": "54ca3c7215222216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "os-projects/td-web/future-backlogs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "future-backlogs"
             }
           }
         ]
@@ -163,8 +167,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "54ca3c7215222216",
+  "active": "9b9e11dcc6d4614b",
   "lastOpenFiles": [
+    "os-projects/td-web/kanban-board.md",
+    "os-projects/td-web/future-backlogs.md",
+    "os-projects/cycling-calculators/future-backlogs.md",
     "os-projects/cycling-calculators/future-backlog.md",
     "os-projects/cycling-calculators/kanban board.md",
     "claude.md",
