@@ -11,23 +11,14 @@
             "id": "c9b9f1cf374966cb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "os-projects/cycling-calculators/kanban board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "templates/express-setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "kanban board"
+              "icon": "lucide-file",
+              "title": "express-setup"
             }
           }
         ]
@@ -176,12 +167,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9b9e11dcc6d4614b",
+  "active": "c9b9f1cf374966cb",
   "lastOpenFiles": [
+    "templates/create-new-os-project.md",
+    "templates/backlog-detail.md",
+    "system/migrations/2025-06-29-tasks-to-backlog-completed.md",
     "os-projects/cycling-calculators/kanban board.md",
     "os-projects/cycling-calculators/project standards and dev notes/design-standards.md",
     "os-projects/cycling-calculators/project standards/Example Alex's-notes.md",
-    "templates/create-new-os-project.md",
     "templates/kanban-board-template.md",
     "INSTRUCTIONS.md"
   ]

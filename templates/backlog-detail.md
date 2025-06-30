@@ -32,10 +32,10 @@ Creates: `backlog-details/[task-name].md`
 ```
 
 ## Process Steps
-1. **Create detail file**: `backlog-details/[task-name].md` using template
+1. **Create detail file**: `backlogs/[task-name].md` using template
 2. **Update backlog link**: Replace the backlog item with link format:
    ```markdown
-   - [Task name](../backlog-details/task-name.md) - Brief description
+   - [Task name](../backlogs/task-name.md) - Brief description
    ```
 3. **CRITICAL**: Always verify the link works - never leave plain text items in backlog
 4. **Path validation**: Ensure using correct structure `claude-code-os/os-projects/` not `claude-code-os/projects/`
