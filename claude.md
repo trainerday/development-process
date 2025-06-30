@@ -3,6 +3,7 @@ title: claude
 type: note
 permalink: claude-code-os/claude
 ---
+
 Testing a change
 ## Load Claude Code OS
 Read: `claude-code-os/templates/`, `claude-code-os/knowledge-base/`, `claude-code-os/system/`
@@ -55,4 +56,3 @@ CRITICAL - When creating a spec or appending a spec to an existing note always r
 
 When talking about testing review this document
 claude-code-os/system/workflows/automated-development/testing-process
-

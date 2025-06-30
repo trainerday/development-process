@@ -45,7 +45,7 @@ To access the OS project management files, use:
 
 ## Development Notes
 (Add development-specific notes here)
-" > claude.md
+" > CLAUDE.md
 
 # Initialize git repository
 git init
