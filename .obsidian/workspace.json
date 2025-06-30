@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/create-new-os-project.md",
+                "file": "os-projects/cycling-calculators/project standards/design-standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create-new-os-project"
+              "title": "design-standards"
             }
           }
         ]
@@ -167,8 +167,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9b9f1cf374966cb",
+  "active": "9b9e11dcc6d4614b",
   "lastOpenFiles": [
+    "templates/create-new-os-project.md",
+    "templates/kanban-board-template.md",
     "os-projects/cycling-calculators/kanban board.md",
     "INSTRUCTIONS.md"
   ]
