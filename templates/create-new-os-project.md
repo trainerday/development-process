@@ -11,19 +11,14 @@ permalink: claude-code-os/templates/create-new-os-project
 ## Generated Structure
 ```
 [os-project-name]/
-├── system-state-hierarchy.md
-├── tech-stack.md
-├── design-standards.md
-├── kanban-board.md
-├── stage-testing/
-│   ├── task-list-and-status.md
-├── backlog-details/
 ├── backlog-completed/
-│   ├── backlog-specs/
-│   └── backlog-completed.md
-└── conversations/
-    ├── decision-summaries/
-    └── review-summaries/
+├── backlogs/
+├── project-standards-and-dev-notes/
+│   ├── design-standards.md
+│   └── tech-standards.md
+├── stage-testing/
+│   └── task-list-and-status.md
+└── kanban-board.md
 ```
 
 ## Initial Kanban Board
