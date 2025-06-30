@@ -167,8 +167,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9b9f1cf374966cb",
+  "active": "9b9e11dcc6d4614b",
   "lastOpenFiles": [
+    "os-projects/td-web/stage-testing/task-list-and-status",
+    "os-projects/td-web/stage-testing",
+    "os-projects/td-web/project-standards-and-dev-notes/tech-standards",
+    "os-projects/td-web/project-standards-and-dev-notes/design-standards",
+    "os-projects/td-web/project-standards-and-dev-notes",
+    "os-projects/td-web/kanban-board",
+    "os-projects/td-web",
     "templates/create-new-os-project.md",
     "templates/backlog-detail.md",
     "system/migrations/2025-06-29-tasks-to-backlog-completed.md",

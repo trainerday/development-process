@@ -1,0 +1,25 @@
+---
+title: tech-standards
+type: note
+permalink: os-projects/td-web/project-standards-and-dev-notes/tech-standards
+---
+
+# Tech Standards - TD Web
+
+## Project Overview
+Main web application for TrainerDay including all APIs and shared npm packages across all applications.
+
+## Technology Stack
+- (To be defined)
+
+## API Standards
+- (To be defined)
+
+## Shared NPM Packages
+- (To be defined)
+
+## Development Standards
+- (To be defined)
+
+## Deployment Standards
+- (To be defined)
