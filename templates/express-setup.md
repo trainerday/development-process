@@ -28,6 +28,25 @@ echo "node_modules/
 *.log
 .DS_Store" > .gitignore
 
+# Create claude.md file linking to OS project
+echo "# Claude Development Notes
+
+## Connected OS Project
+This development project is connected to the OS project: **[os-project-name]**
+
+To access the OS project management files, use:
+\`memory://os-projects/[os-project-name]/kanban-board\`
+
+## Quick Links
+- Kanban Board: \`os-projects/[os-project-name]/kanban-board\`
+- Tech Standards: \`os-projects/[os-project-name]/project-standards-and-dev-notes/tech-standards\`
+- Design Standards: \`os-projects/[os-project-name]/project-standards-and-dev-notes/design-standards\`
+- Testing: \`os-projects/[os-project-name]/stage-testing/task-list-and-status\`
+
+## Development Notes
+(Add development-specific notes here)
+" > claude.md
+
 # Initialize git repository
 git init
 
@@ -60,6 +79,7 @@ curl -s -o /dev/null -w "%{http_code}" http://localhost:3000
 ✅ Dependencies installed (including nodemon)
 ✅ Scripts configured in package.json
 ✅ .gitignore created
+✅ **claude.md file created with OS project connection** ← Links to associated OS project
 ✅ Git repository initialized
 ✅ **GitHub repository created in TrainerDay organization** ← CRITICAL: Do not skip
 ✅ Initial commit made
