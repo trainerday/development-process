@@ -3,7 +3,7 @@ title: INSTRUCTIONS
 type: note
 permalink: claude-code-os/instructions
 ---
-
+Testing a change
 ## Load Claude Code OS
 Read: `claude-code-os/templates/`, `claude-code-os/knowledge-base/`, `claude-code-os/system/`
 
