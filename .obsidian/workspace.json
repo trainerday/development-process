@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80e8acb82044c707",
+        "id": "9ab1fab34bb1fcfe",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b9f1cf374966cb",
+            "id": "54ca3c7215222216",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/express-setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "express-setup"
+              "title": "New tab"
             }
           }
         ]
@@ -167,8 +163,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9b9e11dcc6d4614b",
+  "active": "54ca3c7215222216",
   "lastOpenFiles": [
+    "os-projects/cycling-calculators/future-backlog.md",
+    "os-projects/cycling-calculators/kanban board.md",
+    "claude.md",
+    "templates/express-setup.md",
     "os-projects/td-web/stage-testing/task-list-and-status",
     "os-projects/td-web/stage-testing",
     "os-projects/td-web/project-standards-and-dev-notes/tech-standards",
@@ -179,10 +179,8 @@
     "templates/create-new-os-project.md",
     "templates/backlog-detail.md",
     "system/migrations/2025-06-29-tasks-to-backlog-completed.md",
-    "os-projects/cycling-calculators/kanban board.md",
     "os-projects/cycling-calculators/project standards and dev notes/design-standards.md",
     "os-projects/cycling-calculators/project standards/Example Alex's-notes.md",
-    "templates/kanban-board-template.md",
-    "INSTRUCTIONS.md"
+    "templates/kanban-board-template.md"
   ]
 }

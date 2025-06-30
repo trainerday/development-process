@@ -1,7 +1,7 @@
 ---
-title: INSTRUCTIONS
+title: claude
 type: note
-permalink: claude-code-os/instructions
+permalink: claude-code-os/claude
 ---
 Testing a change
 ## Load Claude Code OS
