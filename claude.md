@@ -1,7 +1,7 @@
 ---
 title: claude
 type: note
-permalink: claude-code-os/claude2
+permalink: claude-code-os/claude
 ---
 
 Testing a change
