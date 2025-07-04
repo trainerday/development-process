@@ -15,6 +15,8 @@ kanban-plugin: board
 
 ## in process
 
+- [x] [Review Campaign Stats](../backlogs/review-campaign-stats.md)
+
 
 
 ## dev complete
