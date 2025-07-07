@@ -9,7 +9,6 @@ kanban-plugin: board
 
 ## backlog
 
-- [ ] [[android-api-issue|Android API Issue]]
 - [ ] [[delete-account-does-not-work-new-delete-api|Delete Account Does Not Work + New Delete API]]
 - [ ] [[add-ability-to-start-on-workouts-table-first-list|Add Ability to Start on Workouts Table First List]]
 - [ ] [[if-power-doubling-is-on|If Power Doubling Is On]]
@@ -27,10 +26,14 @@ kanban-plugin: board
 
 ## next
 
+- [ ] [[android-api-issue|Android API Issue]]
 
 
 ## in process
 
+- [ ] Add Calendar
+- [ ] Apple Health
+- [ ] Add Yearly Pricing
 
 
 ## dev complete

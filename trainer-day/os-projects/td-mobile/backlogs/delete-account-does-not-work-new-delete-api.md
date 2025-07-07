@@ -7,29 +7,9 @@ permalink: trainer-day/os-projects/td-mobile/backlogs/delete-account-does-not-wo
 # Delete Account Does Not Work + New Delete API
 
 ## Overview
-The current delete account functionality is not working properly. There is also a better delete method available in a different project (ManageUsers) that should be reviewed and potentially deployed.
+The current delete account functionality is not working properly. There is also a better delete method available in a different github project (ManageUsers) that should be reviewed and deployed to production
 
-## Priority
-High - Account deletion is a critical user privacy feature
+Right now I do it like the attached image but there is also a rest api method in there. Maybe we should add some security to it.  The mobile app should call this method.  Make sure to tell them this can't be undone and will not stop their billing.
 
-## Current Issue
-Current delete account process is not functioning correctly.
+![[Pasted image 20250707153740.png]]
 
-## Proposed Solution
-Review and potentially deploy the improved delete API from the ManageUsers project. The new REST API method may need additional security measures.
-
-## Acceptance Criteria
-- [ ] Fix current delete account functionality
-- [ ] Review ManageUsers project delete API
-- [ ] Implement improved delete method
-- [ ] Add appropriate security measures to new API
-- [ ] Test delete functionality thoroughly
-- [ ] Ensure compliance with data privacy regulations
-
-## Technical Notes
-- ManageUsers project contains a better delete method
-- Current implementation shown in attached image
-- Need to add security to the REST API method
-
-## Related Links
-- Trello Card ID: #22
