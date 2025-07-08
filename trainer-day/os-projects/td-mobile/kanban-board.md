@@ -22,6 +22,7 @@ kanban-plugin: board
 - [ ] [[display-issue|Display Issue]]
 - [ ] We should ignore power match unless power is selected on the second device.
 - [ ] We should not double power if it is a single device.
+- [ ] [[fix-android-15-background-performance-issue|Fix Android 15 Background Performance Issue]] - GitHub Issue #239
 
 
 ## next

@@ -71,6 +71,7 @@ kanban-plugin: board
 - [ ] [add-send-to-myplans-from-calendar](backlogs/add-send-to-myplans-from-calendar.md)
 - [ ] [hamburger-menu-missing-safari](backlogs/hamburger-menu-missing-safari.md)
 - [ ] [cadence-problem](backlogs/cadence-problem.md)
+- [ ] [add-marketing-messages-on-workout-plan-pages-for-non-logged-in-users](backlogs/add-marketing-messages-on-workout-plan-pages-for-non-logged-in-users.md)
 
 
 ## up next
