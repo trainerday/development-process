@@ -55,6 +55,14 @@ Coach Jack currently uses a traditional form-based question interface. Based on 
 
 **Live Prototypes:**
 - **Questionnaire:** https://claude.ai/public/artifacts/9295a409-89be-4ddf-a7d7-5a1ed38e8e13
+- **Profile Summary:** https://claude.ai/public/artifacts/7c3a4b2d-87f8-4d2d-9c2e-9f3c8b1a5e4f
+
+**Mobile & Theme Requirements:**
+- **Dark theme as primary** for TrainerDay app integration
+- **Light theme support** for standalone web usage
+- **Mobile-first design** with touch-optimized interactions
+- **Web popup integration** for in-app questionnaire experience
+- **Small screen optimization** with proper spacing and tap targets
 
 **Data Schema Integration:**
 - LLM enhancement questions designed to capture user tag schema requirements
@@ -65,7 +73,11 @@ Coach Jack currently uses a traditional form-based question interface. Based on 
 - Removed question type indicators for cleaner experience
 - Progressive disclosure maintains engagement
 - Profile strength scoring encourages completion
-- Mobile-responsive design
+- Mobile-first responsive design optimized for app integration
+- Dark and light theme support with automatic theme switching
+- Web popup integration for in-app experience
+- Touch-friendly interface with proper tap targets
+- Optimized for small screens and mobile interactions
 
 ## Implementation Benefits
 
