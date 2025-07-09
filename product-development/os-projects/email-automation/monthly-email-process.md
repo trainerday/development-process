@@ -1,5 +1,5 @@
 ---
-title: monthly-email-process
+title: Monthly Email Process
 type: note
 permalink: product-development/os-projects/email-automation/monthly-email-process
 ---

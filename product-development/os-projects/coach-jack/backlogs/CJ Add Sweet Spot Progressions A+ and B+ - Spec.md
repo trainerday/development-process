@@ -1,7 +1,7 @@
 ---
-title: CJ Add Sweet Spot Progressions A+ and B+ - Spec
+title: CJ Add sweet spot progressions a+ and b+   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-add-sweet-spot-progressions-a-and-b-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ Add Sweet Spot Progressions A+ and B+ - Spec
 ---
 
 # CJ Add Sweet Spot Progressions A+ and B+ - Requirements

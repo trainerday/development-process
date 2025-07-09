@@ -1,7 +1,7 @@
 ---
 title: Set all duplicate workouts to private
 type: note
-permalink: product-development/os-projects/td-web/backlogs/set-all-duplicate-workouts-to-private
+permalink: product-development/os-projects/td-web/backlogs/Set all duplicate workouts to private
 tags:
 - '["feature"'
 - '"maintenance"'

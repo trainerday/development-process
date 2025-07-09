@@ -1,5 +1,5 @@
 ---
-title: design-standards
+title: Design Standards
 type: note
 permalink: product-development/os-projects/td-ai-testing/project-standards-and-dev-notes/design-standards
 ---

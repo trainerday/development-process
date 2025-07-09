@@ -1,5 +1,5 @@
 ---
-title: backlog-completion
+title: Backlog Completion
 type: note
 permalink: product-development/system/workflows/automated-development/backlog-completion
 ---

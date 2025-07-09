@@ -1,5 +1,5 @@
 ---
-title: 1-spec-process
+title: 1 Spec Process
 type: note
 permalink: product-development/system/workflows/automated-development/1-spec-process
 ---

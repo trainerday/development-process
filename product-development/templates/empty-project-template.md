@@ -1,5 +1,5 @@
 ---
-title: empty-project-template
+title: Empty Project Template
 type: note
 permalink: product-development/templates/empty-project-template
 ---

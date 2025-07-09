@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/readme
+permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/README
 ---
 
 # Backlog Specs Archive

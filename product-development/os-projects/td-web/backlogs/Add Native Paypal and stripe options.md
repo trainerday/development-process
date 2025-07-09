@@ -1,7 +1,7 @@
 ---
-title: Add Native Paypal and stripe options
+title: Add native paypal and stripe options
 type: task
-permalink: product-development/os-projects/td-web/backlogs/add-native-paypal-and-stripe-options
+permalink: product-development/os-projects/td-web/backlogs/Add Native Paypal and stripe options
 ---
 
 # Add Native Paypal and stripe options (and get rid of WP billing)

@@ -1,7 +1,7 @@
 ---
-title: Billing Step 2
+title: Billing step 2
 type: task
-permalink: product-development/os-projects/td-web/backlogs/billing-step-2
+permalink: product-development/os-projects/td-web/backlogs/Billing Step 2
 ---
 
 # Billing Step 2

@@ -1,7 +1,7 @@
 ---
-title: Change Text RacerType to Active Sport
+title: Change text racertype to active sport
 type: task
-permalink: product-development/os-projects/td-web/backlogs/change-text-racer-type-to-active-sport
+permalink: product-development/os-projects/td-web/backlogs/Change Text RacerType to Active Sport
 ---
 
 # Change Text RacerType to Active Sport

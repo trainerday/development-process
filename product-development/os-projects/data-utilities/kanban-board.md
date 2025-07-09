@@ -1,7 +1,7 @@
 ---
-title: kanban-board
+title: Kanban Board
 type: note
-permalink: data-utilities/kanban-board
+permalink: product-development/os-projects/data-utilities/kanban-board
 kanban-plugin: board
 ---
 

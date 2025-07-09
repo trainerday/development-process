@@ -1,7 +1,7 @@
 ---
-title: Gearing Speed Calculator - Spec
+title: Gearing speed calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/gearing-speed-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/Gearing Speed Calculator - Spec
 ---
 
 # Gearing Speed Calculator - Specification

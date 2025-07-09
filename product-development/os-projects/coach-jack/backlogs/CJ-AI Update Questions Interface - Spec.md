@@ -1,9 +1,10 @@
 ---
-title: CJ Update Questions Interface - Spec
+title: CJ Ai update questions interface   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-update-questions-interface-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ-AI Update Questions Interface - Spec
 ---
 
+**GitHub Issue:** [#115 - Coach Jack - Update Questions Interface](https://github.com/trainerday/main-app-web/issues/115)
 # CJ Questions Interface
 
 ## Current State
@@ -87,4 +88,3 @@ Coach Jack currently uses a traditional form-based question interface. Based on 
 3. **Profile Management** - Build user profile editing and versioning
 4. **Mobile Integration** - Implement within TrainerDay app
 5. **Testing & Optimization** - User testing and conversion optimization
-

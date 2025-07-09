@@ -1,7 +1,7 @@
 ---
-title: Fix errors in public API
+title: Fix errors in public api
 type: note
-permalink: product-development/os-projects/td-web/backlogs/fix-errors-in-public-api
+permalink: product-development/os-projects/td-web/backlogs/Fix errors in public API
 tags:
 - '["bug"'
 - '"api"'

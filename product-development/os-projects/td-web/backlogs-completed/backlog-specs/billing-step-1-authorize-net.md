@@ -1,5 +1,5 @@
 ---
-title: billing-step-1-authorize-net
+title: Billing Step 1 Authorize Net
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/billing-step-1-authorize-net
 ---

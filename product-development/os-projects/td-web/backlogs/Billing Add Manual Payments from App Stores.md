@@ -1,7 +1,7 @@
 ---
-title: Billing Add Manual Payments from App Stores
+title: Billing add manual payments from app stores
 type: task
-permalink: product-development/os-projects/td-web/backlogs/billing-add-manual-payments-from-app-stores
+permalink: product-development/os-projects/td-web/backlogs/Billing Add Manual Payments from App Stores
 ---
 
 # Billing Add Manual Payments from App Stores and "Free Users"

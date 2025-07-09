@@ -1,5 +1,5 @@
 ---
-title: uat-use-uat-wordpress
+title: Uat Use Uat Wordpress
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/uat-use-uat-wordpress
 ---

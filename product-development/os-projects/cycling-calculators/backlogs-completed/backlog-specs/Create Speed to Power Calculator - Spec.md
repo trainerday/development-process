@@ -1,7 +1,7 @@
 ---
-title: Create Speed to Power Calculator - Spec
+title: Create speed to power calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs-completed/backlog-specs/create-speed-to-power-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs-completed/backlog-specs/Create Speed to Power Calculator - Spec
 ---
 
 # Create Speed to Power Calculator - Technical Specification

@@ -1,7 +1,7 @@
 ---
-title: Individualized Difficulty Score IDS System - Spec
+title: Individualized difficulty score ids system   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/individualized-difficulty-score-ids-system-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Individualized Difficulty Score IDS System - Spec
 ---
 
 # Individualized Difficulty Score (IDS) System - Requirements

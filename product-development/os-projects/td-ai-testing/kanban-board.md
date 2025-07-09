@@ -1,5 +1,5 @@
 ---
-title: kanban-board
+title: Kanban Board
 type: note
 permalink: product-development/os-projects/td-ai-testing/kanban-board
 kanban-plugin: board

@@ -1,7 +1,7 @@
 ---
-title: User Attributes Data Collection System - Spec
+title: User attributes data collection system   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/user-attributes-data-collection-system-spec
+permalink: product-development/os-projects/coach-jack/backlogs/User Attributes Data Collection System - Spec
 ---
 
 # User Attributes Data Collection System - Requirements

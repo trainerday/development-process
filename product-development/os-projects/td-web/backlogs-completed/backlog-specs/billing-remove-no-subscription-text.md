@@ -1,5 +1,5 @@
 ---
-title: billing-remove-no-subscription-text
+title: Billing Remove No Subscription Text
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/billing-remove-no-subscription-text
 ---

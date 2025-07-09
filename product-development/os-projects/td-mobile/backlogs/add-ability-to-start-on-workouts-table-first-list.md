@@ -1,5 +1,5 @@
 ---
-title: add-ability-to-start-on-workouts-table-first-list
+title: Add Ability To Start On Workouts Table First List
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/add-ability-to-start-on-workouts-table-first-list
 ---

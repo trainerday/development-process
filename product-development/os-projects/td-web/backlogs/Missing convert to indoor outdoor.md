@@ -1,7 +1,7 @@
 ---
 title: Missing convert to indoor outdoor
 type: task
-permalink: product-development/os-projects/td-web/backlogs/missing-convert-to-indoor-outdoor
+permalink: product-development/os-projects/td-web/backlogs/Missing convert to indoor outdoor
 ---
 
 # Missing convert to indoor/outdoor

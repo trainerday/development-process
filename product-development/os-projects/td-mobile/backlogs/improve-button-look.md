@@ -1,5 +1,5 @@
 ---
-title: improve-button-look
+title: Improve Button Look
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/improve-button-look
 ---

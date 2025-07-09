@@ -1,5 +1,5 @@
 ---
-title: review-campaign-stats
+title: Review Campaign Stats
 type: note
 permalink: product-development/os-projects/email-automation/backlogs/review-campaign-stats
 ---

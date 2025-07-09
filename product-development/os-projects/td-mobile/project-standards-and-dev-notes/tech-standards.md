@@ -1,5 +1,5 @@
 ---
-title: tech-standards
+title: Tech Standards
 type: note
 permalink: product-development/os-projects/td-mobile/project-standards-and-dev-notes/tech-standards
 ---

@@ -1,5 +1,5 @@
 ---
-title: billing-void-transaction-after-payment
+title: Billing Void Transaction After Payment
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/billing-void-transaction-after-payment
 ---

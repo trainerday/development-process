@@ -1,5 +1,5 @@
 ---
-title: td-user-sync-bigmailer-campaigns
+title: Td User Sync Bigmailer Campaigns
 type: backlog
 permalink: product-development/os-projects/email-automation/backlogs/td-user-sync-bigmailer-campaigns
 ---

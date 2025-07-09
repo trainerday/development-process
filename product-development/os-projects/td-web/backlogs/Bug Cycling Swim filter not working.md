@@ -1,7 +1,7 @@
 ---
-title: Bug Cycling Swim filter not working
+title: Bug cycling swim filter not working
 type: task
-permalink: product-development/os-projects/td-web/backlogs/bug-cycling-swim-filter-not-working
+permalink: product-development/os-projects/td-web/backlogs/Bug Cycling Swim filter not working
 ---
 
 # Bug: Cycling/Swim filter not working

@@ -1,5 +1,5 @@
 ---
-title: allow-direct-workout-editing-calendar
+title: Allow Direct Workout Editing Calendar
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/allow-direct-workout-editing-calendar
 ---

@@ -1,7 +1,7 @@
 ---
-title: Fat Max Zone Calculator - Spec
+title: Fat max zone calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/fat-max-zone-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/Fat Max Zone Calculator - Spec
 ---
 
 # Fat Max Zone Calculator - Specification

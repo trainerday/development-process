@@ -1,5 +1,5 @@
 ---
-title: cadence-problem
+title: Cadence Problem
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs/cadence-problem
 ---

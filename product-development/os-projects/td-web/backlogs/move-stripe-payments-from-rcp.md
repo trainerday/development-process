@@ -1,5 +1,5 @@
 ---
-title: move-stripe-payments-from-rcp
+title: Move Stripe Payments From Rcp
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs/move-stripe-payments-from-rcp
 ---

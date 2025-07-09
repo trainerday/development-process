@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/templates/readme
+permalink: product-development/templates/README
 ---
 
 # Templates

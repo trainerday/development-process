@@ -1,7 +1,7 @@
 ---
-title: Bug - Calendar 2 workouts in a day
+title: Bug   calendar 2 workouts in a day
 type: note
-permalink: product-development/os-projects/td-web/backlogs/bug-calendar-2-workouts-in-a-day
+permalink: product-development/os-projects/td-web/backlogs/Bug - Calendar 2 workouts in a day
 tags:
 - '["bug"'
 - '"calendar"'

@@ -1,5 +1,5 @@
 ---
-title: future-backlogs
+title: Future Backlogs
 type: note
 permalink: product-development/os-projects/data-utilities/future-backlogs
 ---

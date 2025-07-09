@@ -1,7 +1,7 @@
 ---
-title: tech-stack
+title: Tech Standards
 type: note
-permalink: product-development/os-projects/cycling-calculators/project-standards-and-dev-notes/tech-standards
+permalink: product-development/os-projects/cycling-calculators/project standards and dev notes/tech-standards
 ---
 
 # Technical Stack

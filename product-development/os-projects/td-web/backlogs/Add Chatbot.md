@@ -1,7 +1,7 @@
 ---
-title: Add Chatbot
+title: Add chatbot
 type: note
-permalink: product-development/os-projects/td-web/backlogs/add-chatbot
+permalink: product-development/os-projects/td-web/backlogs/Add Chatbot
 tags:
 - '["feature"'
 - '"chatbot"'

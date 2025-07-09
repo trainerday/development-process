@@ -1,5 +1,5 @@
 ---
-title: remove-popup-new-homepage
+title: Remove Popup New Homepage
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/remove-popup-new-homepage
 ---

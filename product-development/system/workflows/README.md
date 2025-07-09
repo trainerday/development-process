@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/system/workflows/readme
+permalink: product-development/system/workflows/README
 ---
 
 # Workflows

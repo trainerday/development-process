@@ -1,7 +1,7 @@
 ---
-title: User Goals Evaluation and Assessment - Spec
+title: User goals evaluation and assessment   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/user-goals-evaluation-and-assessment-spec
+permalink: product-development/os-projects/coach-jack/backlogs/User Goals Evaluation and Assessment - Spec
 ---
 
 # User Goals Evaluation and Assessment - Requirements

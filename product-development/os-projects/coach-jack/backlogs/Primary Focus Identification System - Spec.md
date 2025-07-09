@@ -1,7 +1,7 @@
 ---
-title: Primary Focus Identification System - Spec
+title: Primary focus identification system   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/primary-focus-identification-system-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Primary Focus Identification System - Spec
 ---
 
 # Primary Focus Identification System - Requirements

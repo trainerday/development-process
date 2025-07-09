@@ -1,7 +1,7 @@
 ---
-title: Add Custom Lengths to Blocks - Spec
+title: Add custom lengths to blocks   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/add-custom-lengths-to-blocks-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Add Custom Lengths to Blocks - Spec
 ---
 
 # Add Custom Lengths to Blocks - Requirements

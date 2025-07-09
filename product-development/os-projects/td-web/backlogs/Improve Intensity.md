@@ -1,7 +1,7 @@
 ---
-title: Improve Intensity
+title: Improve intensity
 type: task
-permalink: product-development/os-projects/td-web/backlogs/improve-intensity
+permalink: product-development/os-projects/td-web/backlogs/Improve Intensity
 ---
 
 # Improve Intensity

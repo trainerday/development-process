@@ -1,5 +1,5 @@
 ---
-title: image-png-placeholder
+title: Image Png Placeholder
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/image-png-placeholder
 ---

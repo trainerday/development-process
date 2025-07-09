@@ -1,5 +1,5 @@
 ---
-title: email-automation
+title: Email Automation
 type: project
 permalink: product-development/os-projects/email-automation/email-automation
 ---

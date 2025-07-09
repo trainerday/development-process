@@ -1,5 +1,5 @@
 ---
-title: display-issue
+title: Display Issue
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/display-issue
 ---

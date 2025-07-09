@@ -1,7 +1,7 @@
 ---
-title: Change Sort Order for API that returns list of workouts
+title: Change sort order for api that returns list of workouts
 type: task
-permalink: product-development/os-projects/td-web/backlogs/change-sort-order-for-api-that-returns-list-of-workouts
+permalink: product-development/os-projects/td-web/backlogs/Change Sort Order for API that returns list of workouts
 ---
 
 # Change Sort Order for API that returns list of workouts

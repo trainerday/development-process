@@ -1,7 +1,7 @@
 ---
-title: replace mixpanel with eventsdb
+title: Replace mixpanel with eventsdb
 type: note
-permalink: os-projects/td-web/replace-mixpanel-with-eventsdb
+permalink: product-development/os-projects/td-web/backlogs/replace mixpanel with eventsdb
 ---
 
 # Replace Mixpanel with EventsDB

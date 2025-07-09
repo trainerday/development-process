@@ -1,5 +1,5 @@
 ---
-title: add-mixpanel-tracking
+title: Add Mixpanel Tracking
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/add-mixpanel-tracking
 ---

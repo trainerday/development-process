@@ -1,7 +1,7 @@
 ---
-title: TCX download should be Indoor cycling not cycling
+title: Tcx download should be indoor cycling not cycling
 type: task
-permalink: product-development/os-projects/td-web/backlogs/tcx-download-should-be-indoor-cycling-not-cycling
+permalink: product-development/os-projects/td-web/backlogs/TCX download should be Indoor cycling not cycling
 ---
 
 # TCX download in app should be Indoor cycling not cycling sport type

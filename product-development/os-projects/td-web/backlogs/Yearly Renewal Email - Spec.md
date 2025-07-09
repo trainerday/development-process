@@ -1,7 +1,7 @@
 ---
-title: Yearly Renewal Email - Spec
+title: Yearly renewal email   spec
 type: note
-permalink: product-development/os-projects/td-web/backlogs/yearly-renewal-email-spec
+permalink: product-development/os-projects/td-web/backlogs/Yearly Renewal Email - Spec
 ---
 
 # Yearly Renewal Email - Specification

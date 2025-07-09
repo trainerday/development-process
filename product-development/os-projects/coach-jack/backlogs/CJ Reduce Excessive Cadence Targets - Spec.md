@@ -1,7 +1,7 @@
 ---
-title: CJ Reduce Excessive Cadence Targets - Spec
+title: CJ Reduce excessive cadence targets   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-reduce-excessive-cadence-targets-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ Reduce Excessive Cadence Targets - Spec
 ---
 
 # CJ Reduce Excessive Cadence Targets - Requirements

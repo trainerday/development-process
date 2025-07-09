@@ -1,7 +1,7 @@
 ---
-title: Community plan search - Fix text
+title: Community plan search   fix text
 type: task
-permalink: product-development/os-projects/td-web/backlogs/community-plan-search-fix-text
+permalink: product-development/os-projects/td-web/backlogs/Community plan search - Fix text
 ---
 
 # Community plan search - Fix text

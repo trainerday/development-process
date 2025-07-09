@@ -1,7 +1,7 @@
 ---
-title: HR Zone Calculator - Spec
+title: Hr zone calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/hr-zone-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/HR Zone Calculator - Spec
 ---
 
 # HR Zone Calculator - Specification

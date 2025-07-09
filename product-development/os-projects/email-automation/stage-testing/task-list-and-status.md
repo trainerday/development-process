@@ -1,5 +1,5 @@
 ---
-title: task-list-and-status
+title: Task List And Status
 type: testing
 permalink: product-development/os-projects/email-automation/stage-testing/task-list-and-status
 ---

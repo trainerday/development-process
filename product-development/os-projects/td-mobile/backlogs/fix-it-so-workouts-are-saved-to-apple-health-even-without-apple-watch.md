@@ -1,5 +1,5 @@
 ---
-title: fix-it-so-workouts-are-saved-to-apple-health-even-without-apple-watch
+title: Fix It So Workouts Are Saved To Apple Health Even Without Apple Watch
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/fix-it-so-workouts-are-saved-to-apple-health-even-without-apple-watch
 ---

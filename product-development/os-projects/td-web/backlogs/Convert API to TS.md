@@ -1,7 +1,7 @@
 ---
-title: Convert API to TS
+title: Convert api to ts
 type: task
-permalink: product-development/os-projects/td-web/backlogs/convert-api-to-ts
+permalink: product-development/os-projects/td-web/backlogs/Convert API to TS
 ---
 
 # Convert API to TS

@@ -1,5 +1,5 @@
 ---
-title: add-detail-displays
+title: Add Detail Displays
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/add-detail-displays
 ---

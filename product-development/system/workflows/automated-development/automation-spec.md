@@ -1,5 +1,5 @@
 ---
-title: automated-development-spec
+title: Automation Spec
 type: note
 permalink: product-development/system/workflows/automated-development/automation-spec
 ---

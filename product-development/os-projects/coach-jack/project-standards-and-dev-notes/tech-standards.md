@@ -1,5 +1,5 @@
 ---
-title: tech-standards
+title: Tech Standards
 type: note
 permalink: product-development/os-projects/coach-jack/project-standards-and-dev-notes/tech-standards
 ---

@@ -1,7 +1,7 @@
 ---
-title: Sorting lists in API and manage Favs
+title: Sorting lists in api and manage favs
 type: task
-permalink: product-development/os-projects/td-web/backlogs/sorting-lists-in-api-and-manage-favs
+permalink: product-development/os-projects/td-web/backlogs/Sorting lists in API and manage Favs
 ---
 
 # Sorting lists in API and manage Favs

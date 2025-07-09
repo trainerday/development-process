@@ -1,7 +1,7 @@
 ---
-title: Periodization Function for AI Plan Generation - Spec
+title: Periodization function for ai plan generation   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/periodization-function-for-ai-plan-generation-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Periodization Function for AI Plan Generation - Spec
 ---
 
 # Periodization Function for AI Plan Generation - Requirements

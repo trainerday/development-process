@@ -1,5 +1,5 @@
 ---
-title: if-power-doubling-is-on
+title: If Power Doubling Is On
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/if-power-doubling-is-on
 ---

@@ -1,5 +1,5 @@
 ---
-title: android-api-issue
+title: Android Api Issue
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/android-api-issue
 ---

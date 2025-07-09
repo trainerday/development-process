@@ -1,5 +1,5 @@
 ---
-title: standardize-env-variables
+title: Standardize Env Variables
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/standardize-env-variables
 ---

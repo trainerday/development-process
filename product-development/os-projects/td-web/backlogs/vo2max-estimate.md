@@ -1,5 +1,5 @@
 ---
-title: vo2max-estimate
+title: Vo2max Estimate
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs/vo2max-estimate
 ---

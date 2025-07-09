@@ -1,5 +1,5 @@
 ---
-title: development-process
+title: 2 Development Process
 type: note
 permalink: product-development/system/workflows/automated-development/2-development-process
 ---

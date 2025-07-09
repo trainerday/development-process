@@ -1,7 +1,7 @@
 ---
-title: Activate Calendar is confusing
+title: Activate calendar is confusing
 type: task
-permalink: product-development/os-projects/td-web/backlogs/activate-calendar-is-confusing
+permalink: product-development/os-projects/td-web/backlogs/Activate Calendar is confusing
 ---
 
 # Activate Calendar is confusing

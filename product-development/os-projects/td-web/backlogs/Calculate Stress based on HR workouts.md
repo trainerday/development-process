@@ -1,7 +1,7 @@
 ---
-title: Calculate Stress based on HR workouts
+title: Calculate stress based on hr workouts
 type: task
-permalink: product-development/os-projects/td-web/backlogs/calculate-stress-based-on-hr-workouts
+permalink: product-development/os-projects/td-web/backlogs/Calculate Stress based on HR workouts
 ---
 
 # Calculate Stress based on HR workouts (ours and strava)

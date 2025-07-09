@@ -1,7 +1,7 @@
 ---
-title: Consolidate send-email event-tracker and mautic
+title: Consolidate send Email event Tracker and mautic
 type: task
-permalink: product-development/os-projects/td-web/backlogs/consolidate-send-email-event-tracker-and-mautic
+permalink: product-development/os-projects/td-web/backlogs/Consolidate send-email event-tracker and mautic
 ---
 
 # Consolidate send-email, event-tracker and mautic into a single service

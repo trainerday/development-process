@@ -1,5 +1,5 @@
 ---
-title: permalink-cleanup-cycling-calculators
+title: Permalink Cleanup Cycling Calculators
 type: note
 permalink: product-development/system/troubleshooting/permalink-cleanup-cycling-calculators
 ---

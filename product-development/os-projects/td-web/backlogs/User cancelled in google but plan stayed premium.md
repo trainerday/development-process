@@ -1,7 +1,7 @@
 ---
 title: User cancelled in google but plan stayed premium
 type: task
-permalink: product-development/os-projects/td-web/backlogs/user-cancelled-in-google-but-plan-stayed-premium
+permalink: product-development/os-projects/td-web/backlogs/User cancelled in google but plan stayed premium
 ---
 
 # This user cancelled in google but his plan stayed premium

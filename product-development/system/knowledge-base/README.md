@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/system/knowledge-base/readme
+permalink: product-development/system/knowledge-base/README
 ---
 
 # Knowledge Base

@@ -1,7 +1,7 @@
 ---
-title: Improve Send to TP
+title: Improve send to tp
 type: task
-permalink: product-development/os-projects/td-web/backlogs/improve-send-to-tp
+permalink: product-development/os-projects/td-web/backlogs/Improve Send to TP
 ---
 
 # Improve Send to TP

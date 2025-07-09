@@ -1,7 +1,7 @@
 ---
-title: CJ Fix Cadence Display and Instructions - Spec
+title: CJ Fix cadence display and instructions   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-fix-cadence-display-and-instructions-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ Fix Cadence Display and Instructions - Spec
 ---
 
 # CJ Fix Cadence Display and Instructions - Requirements

@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/os-projects/td-mobile/backlogs/readme
+permalink: product-development/os-projects/td-mobile/backlogs/README
 ---
 
 # Backlogs

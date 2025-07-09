@@ -1,5 +1,5 @@
 ---
-title: allow-new-features-alert-old-topics
+title: Allow New Features Alert Old Topics
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/allow-new-features-alert-old-topics
 ---

@@ -1,7 +1,7 @@
 ---
-title: Build Public API to get FTP and Threshold HR
+title: Build public api to get ftp and threshold hr
 type: task
-permalink: product-development/os-projects/td-web/backlogs/build-public-api-to-get-ftp-and-threshold-hr
+permalink: product-development/os-projects/td-web/backlogs/Build Public API to get FTP and Threshold HR
 ---
 
 # Build Public API to get FTP and Threshold HR

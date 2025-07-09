@@ -1,5 +1,5 @@
 ---
-title: remove-ftp-text-garmin-sync
+title: Remove Ftp Text Garmin Sync
 type: note
 permalink: product-development/os-projects/td-web/backlogs/remove-ftp-text-garmin-sync
 ---

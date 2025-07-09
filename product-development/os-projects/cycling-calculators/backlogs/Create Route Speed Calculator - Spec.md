@@ -1,7 +1,7 @@
 ---
-title: Create Route Speed Calculator - Spec
+title: Create route speed calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/create-route-speed-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/Create Route Speed Calculator - Spec
 ---
 
 # Create Route Speed Calculator (Alex's design with Claudes help :)

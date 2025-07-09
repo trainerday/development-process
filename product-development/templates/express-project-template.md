@@ -1,7 +1,7 @@
 ---
-title: express-setup
+title: Express Project Template
 type: note
-permalink: product-development/templates/express-setup
+permalink: product-development/templates/express-project-template
 ---
 
 # Express.js Project Setup

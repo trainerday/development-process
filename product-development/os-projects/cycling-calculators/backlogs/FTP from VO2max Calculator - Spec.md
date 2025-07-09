@@ -1,7 +1,7 @@
 ---
-title: FTP from VO2max Calculator - Spec
+title: Ftp from vo2max calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/ftp-from-vo2max-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/FTP from VO2max Calculator - Spec
 ---
 
 # FTP from VO2max Calculator - Specification

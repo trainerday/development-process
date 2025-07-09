@@ -1,7 +1,7 @@
 ---
-title: add more billing notifications
+title: Add more billing notifications
 type: note
-permalink: os-projects/td-web/add-more-billing-notifications
+permalink: product-development/os-projects/td-web/backlogs/add more billing notifications
 ---
 
 # Add More Billing Notifications

@@ -1,5 +1,5 @@
 ---
-title: improve-css-html-my-plans-mobile
+title: Improve Css Html My Plans Mobile
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/improve-css-html-my-plans-mobile
 ---

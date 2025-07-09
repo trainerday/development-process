@@ -1,7 +1,7 @@
 ---
-title: Improve Strava workout names and descriptions
+title: Improve strava workout names and descriptions
 type: task
-permalink: product-development/os-projects/td-web/backlogs/improve-strava-workout-names-and-descriptions
+permalink: product-development/os-projects/td-web/backlogs/Improve Strava workout names and descriptions
 ---
 
 # Improve Strava workout names and descriptions

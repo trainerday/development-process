@@ -1,5 +1,5 @@
 ---
-title: let-people-know-they-must-accept-location-or-bluetooth-wont-work-for-android
+title: Let People Know They Must Accept Location Or Bluetooth Wont Work For Android
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/let-people-know-they-must-accept-location-or-bluetooth-wont-work-for-android
 ---

@@ -1,5 +1,5 @@
 ---
-title: cleanup-dokku-standardize-domains
+title: Cleanup Dokku Standardize Domains
 type: note
 permalink: product-development/os-projects/td-web/backlogs/cleanup-dokku-standardize-domains
 ---

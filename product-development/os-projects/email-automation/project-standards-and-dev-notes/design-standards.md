@@ -1,5 +1,5 @@
 ---
-title: design-standards
+title: Design Standards
 type: documentation
 permalink: product-development/os-projects/email-automation/project-standards-and-dev-notes/design-standards
 ---

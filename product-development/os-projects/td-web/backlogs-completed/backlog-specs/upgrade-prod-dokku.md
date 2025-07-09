@@ -1,5 +1,5 @@
 ---
-title: upgrade-prod-dokku
+title: Upgrade Prod Dokku
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/upgrade-prod-dokku
 ---

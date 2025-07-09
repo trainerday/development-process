@@ -1,5 +1,5 @@
 ---
-title: move-paypal-payments-from-rcp
+title: Move Paypal Payments From Rcp
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs/move-paypal-payments-from-rcp
 ---

@@ -1,5 +1,5 @@
 ---
-title: backlogs-completed
+title: Backlogs Completed
 type: note
 permalink: product-development/os-projects/coach-jack/backlogs-completed/backlogs-completed
 ---

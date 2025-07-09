@@ -1,5 +1,5 @@
 ---
-title: 2025-07-01-brainstorming
+title: 2025 07 01 Brainstorming
 type: note
 permalink: product-development/system/brainstorming/2025-07-01-brainstorming
 ---

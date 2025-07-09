@@ -1,5 +1,5 @@
 ---
-title: kanban-board
+title: Kanban Board
 type: kanban
 permalink: product-development/os-projects/email-automation/kanban-board
 kanban-plugin: board

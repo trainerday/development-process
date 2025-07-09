@@ -1,5 +1,5 @@
 ---
-title: billing-allow-resubscribing
+title: Billing Allow Resubscribing
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/billing-allow-resubscribing
 ---

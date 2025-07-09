@@ -1,5 +1,5 @@
 ---
-title: calendar-infinite-scroll-changes
+title: Calendar Infinite Scroll Changes
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/calendar-infinite-scroll-changes
 ---

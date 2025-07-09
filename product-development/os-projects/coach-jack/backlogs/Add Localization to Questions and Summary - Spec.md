@@ -1,7 +1,7 @@
 ---
-title: Add Localization to Questions and Summary - Spec
+title: Add localization to questions and summary   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/add-localization-to-questions-and-summary-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Add Localization to Questions and Summary - Spec
 ---
 
 # Add Localization to Questions and Summary - Requirements

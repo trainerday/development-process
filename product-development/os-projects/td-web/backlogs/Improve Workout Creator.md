@@ -1,7 +1,7 @@
 ---
-title: Improve Workout Creator
+title: Improve workout creator
 type: task
-permalink: product-development/os-projects/td-web/backlogs/improve-workout-creator
+permalink: product-development/os-projects/td-web/backlogs/Improve Workout Creator
 ---
 
 # Improve Workout Creator

@@ -1,7 +1,7 @@
 ---
-title: Download should download Outdoor version of file
+title: Download should download outdoor version of file
 type: task
-permalink: product-development/os-projects/td-web/backlogs/download-should-download-outdoor-version-of-file
+permalink: product-development/os-projects/td-web/backlogs/Download should download Outdoor version of file
 ---
 
 # Download should download Outdoor version of file

@@ -1,7 +1,7 @@
 ---
-title: Bug HR workout goes as indoor power to TP
+title: Bug hr workout goes as indoor power to tp
 type: task
-permalink: product-development/os-projects/td-web/backlogs/bug-hr-workout-goes-as-indoor-power-to-tp
+permalink: product-development/os-projects/td-web/backlogs/Bug HR workout goes as indoor power to TP
 ---
 
 # Bug: HR workout goes as indoor power to TP

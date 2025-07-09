@@ -1,5 +1,5 @@
 ---
-title: staging-status
+title: Staging Status
 type: note
 permalink: product-development/os-projects/td-ai-testing/stage-testing/staging-status
 ---

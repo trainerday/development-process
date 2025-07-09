@@ -1,5 +1,5 @@
 ---
-title: visual-standards-template
+title: Visual Standards Template
 type: note
 permalink: product-development/templates/visual-standards-template
 ---

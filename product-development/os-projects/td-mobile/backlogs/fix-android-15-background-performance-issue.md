@@ -1,5 +1,5 @@
 ---
-title: fix-android-15-background-performance-issue
+title: Fix Android 15 Background Performance Issue
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/fix-android-15-background-performance-issue
 ---

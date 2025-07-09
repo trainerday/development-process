@@ -1,5 +1,5 @@
 ---
-title: routes-2-add-strava-history-today
+title: Routes 2 Add Strava History Today
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/routes-2-add-strava-history-today
 ---

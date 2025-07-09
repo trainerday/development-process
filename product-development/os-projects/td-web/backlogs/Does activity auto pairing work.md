@@ -1,7 +1,7 @@
 ---
 title: Does activity auto pairing work
 type: note
-permalink: product-development/os-projects/td-web/backlogs/does-activity-auto-pairing-work
+permalink: product-development/os-projects/td-web/backlogs/Does activity auto pairing work
 tags:
 - '["investigation"'
 - '"bug"'

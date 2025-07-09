@@ -1,5 +1,5 @@
 ---
-title: add-send-to-myplans-from-calendar
+title: Add Send To Myplans From Calendar
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs/add-send-to-myplans-from-calendar
 ---

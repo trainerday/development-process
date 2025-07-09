@@ -1,7 +1,7 @@
 ---
-title: Upload Zwift ZWO with decimal values fails
+title: Upload zwift zwo with decimal values fails
 type: note
-permalink: product-development/os-projects/td-web/backlogs/upload-zwift-zwo-with-decimal-values-fails
+permalink: product-development/os-projects/td-web/backlogs/Upload Zwift ZWO with decimal values fails
 tags:
 - '["bug"'
 - '"zwift"'

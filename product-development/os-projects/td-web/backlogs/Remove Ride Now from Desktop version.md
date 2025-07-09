@@ -1,7 +1,7 @@
 ---
-title: Remove Ride Now from Desktop version
+title: Remove ride now from desktop version
 type: task
-permalink: product-development/os-projects/td-web/backlogs/remove-ride-now-from-desktop-version
+permalink: product-development/os-projects/td-web/backlogs/Remove Ride Now from Desktop version
 ---
 
 # Remove Ride Now from Desktop version (leave it in mobile)

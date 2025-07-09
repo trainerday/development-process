@@ -1,7 +1,7 @@
 ---
-title: backlogs-completed
+title: Backlogs Completed
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs-completed/backlogs-completed-1
+permalink: product-development/os-projects/cycling-calculators/backlogs-completed/backlogs-completed
 ---
 
 ## Completed Items

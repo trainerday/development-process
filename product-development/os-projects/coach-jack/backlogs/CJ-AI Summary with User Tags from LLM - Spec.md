@@ -1,7 +1,7 @@
 ---
-title: CJ AI Summary with User Tags from LLM - Spec
+title: CJ Ai summary with user tags from llm   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-ai-summary-with-user-tags-from-llm-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ-AI Summary with User Tags from LLM - Spec
 ---
 
 # CJ AI Summary with User Tags from LLM - Requirements

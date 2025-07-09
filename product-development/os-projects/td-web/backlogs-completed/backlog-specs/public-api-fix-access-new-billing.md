@@ -1,5 +1,5 @@
 ---
-title: public-api-fix-access-new-billing
+title: Public Api Fix Access New Billing
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/public-api-fix-access-new-billing
 ---

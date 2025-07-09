@@ -1,5 +1,5 @@
 ---
-title: backlog-detail
+title: Backlog Detail
 type: note
 permalink: product-development/templates/backlog-detail
 ---

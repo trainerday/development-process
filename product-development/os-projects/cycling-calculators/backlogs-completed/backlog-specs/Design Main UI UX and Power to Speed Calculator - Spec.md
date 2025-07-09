@@ -1,7 +1,7 @@
 ---
-title: Design Main UI UX and Power to Speed Calculator - Spec
+title: Design main ui ux and power to speed calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs-completed/backlog-specs/design-main-ui-ux-and-power-to-speed-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs-completed/backlog-specs/Design Main UI UX and Power to Speed Calculator - Spec
 ---
 
 # Design Main UI/UX and Power to Speed Calculator - Requirements

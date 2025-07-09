@@ -1,7 +1,7 @@
 ---
-title: Add Product Tour
+title: Add product tour
 type: note
-permalink: product-development/os-projects/td-web/backlogs/add-product-tour
+permalink: product-development/os-projects/td-web/backlogs/Add Product Tour
 tags:
 - '["feature"'
 - '"ux"'

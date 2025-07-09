@@ -1,5 +1,5 @@
 ---
-title: switch-wp-stage-web-app
+title: Switch Wp Stage Web App
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/switch-wp-stage-web-app
 ---

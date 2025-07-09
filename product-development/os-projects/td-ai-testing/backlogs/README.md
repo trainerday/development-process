@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/os-projects/td-ai-testing/backlogs/readme
+permalink: product-development/os-projects/td-ai-testing/backlogs/README
 ---
 
 # Backlogs Directory

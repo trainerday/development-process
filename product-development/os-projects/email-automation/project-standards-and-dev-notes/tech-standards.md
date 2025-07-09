@@ -1,5 +1,5 @@
 ---
-title: tech-standards
+title: Tech Standards
 type: documentation
 permalink: product-development/os-projects/email-automation/project-standards-and-dev-notes/tech-standards
 ---

@@ -1,7 +1,7 @@
 ---
-title: CJ Profile Summary Page - Spec
+title: CJ Profile summary page   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-profile-summary-page-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ Profile Summary Page - Spec
 ---
 
 # CJ Profile Summary Page - Spec

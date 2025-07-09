@@ -1,5 +1,5 @@
 ---
-title: coach-jack-first-priority
+title: Coach Jack First Priority
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/coach-jack-first-priority
 ---

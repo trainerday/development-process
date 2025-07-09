@@ -1,5 +1,5 @@
 ---
-title: scrape-site-images
+title: Scrape Site Images
 type: note
 permalink: product-development/os-projects/td-ai-testing/backlogs/scrape-site-images
 ---

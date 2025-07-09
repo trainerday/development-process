@@ -1,5 +1,5 @@
 ---
-title: billing-upgrade-make-clearer
+title: Billing Upgrade Make Clearer
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/billing-upgrade-make-clearer
 ---

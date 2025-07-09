@@ -1,5 +1,5 @@
 ---
-title: bug-april-2025-calendar
+title: Bug April 2025 Calendar
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/bug-april-2025-calendar
 ---

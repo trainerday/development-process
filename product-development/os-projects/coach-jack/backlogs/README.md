@@ -1,7 +1,7 @@
 ---
 title: README
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/readme
+permalink: product-development/os-projects/coach-jack/backlogs/README
 ---
 
 # Backlogs

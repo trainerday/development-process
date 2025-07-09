@@ -1,5 +1,5 @@
 ---
-title: c2-rower-no-power-bug
+title: C2 Rower No Power Bug
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/c2-rower-no-power-bug
 ---

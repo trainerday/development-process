@@ -1,7 +1,7 @@
 ---
-title: CJ Long Event Focus and Long Ride Progression - Spec
+title: CJ Long event focus and long ride progression   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-long-event-focus-and-long-ride-progression-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ Long Event Focus and Long Ride Progression - Spec
 ---
 
 # CJ Long Event Focus and Long Ride Progression - Requirements

@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-permalink: product-development/os-projects/cycling-calculators/kanban-board
+permalink: product-development/os-projects/cycling-calculators/kanban board
 ---
 
 ## backlog

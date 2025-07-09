@@ -1,7 +1,7 @@
 ---
-title: Smooth Strava API spikes
+title: Smooth strava api spikes
 type: task
-permalink: product-development/os-projects/td-web/backlogs/smooth-strava-api-spikes
+permalink: product-development/os-projects/td-web/backlogs/Smooth Strava API spikes
 ---
 
 # Smooth Strava API spikes

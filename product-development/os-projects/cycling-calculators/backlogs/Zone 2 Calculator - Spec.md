@@ -1,7 +1,7 @@
 ---
-title: Zone 2 Calculator - Spec
+title: Zone 2 calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/zone-2-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/Zone 2 Calculator - Spec
 ---
 
 # Zone 2 Calculator - Specification

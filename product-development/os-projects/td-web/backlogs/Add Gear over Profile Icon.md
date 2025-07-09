@@ -1,7 +1,7 @@
 ---
-title: Add Gear over Profile Icon
+title: Add gear over profile icon
 type: task
-permalink: product-development/os-projects/td-web/backlogs/add-gear-over-profile-icon
+permalink: product-development/os-projects/td-web/backlogs/Add Gear over Profile Icon
 ---
 
 # Add Gear over Profile Icon

@@ -1,7 +1,7 @@
 ---
-title: Change Sort order for lists
+title: Change sort order for lists
 type: task
-permalink: product-development/os-projects/td-web/backlogs/change-sort-order-for-lists
+permalink: product-development/os-projects/td-web/backlogs/Change Sort order for lists
 ---
 
 # Change Sort order for lists

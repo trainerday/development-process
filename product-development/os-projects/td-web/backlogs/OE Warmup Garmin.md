@@ -1,7 +1,7 @@
 ---
-title: OE Warmup Garmin
+title: Oe warmup garmin
 type: task
-permalink: product-development/os-projects/td-web/backlogs/oe-warmup-garmin
+permalink: product-development/os-projects/td-web/backlogs/OE Warmup Garmin
 ---
 
 # OE Warmup (Garmin)

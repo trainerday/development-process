@@ -1,5 +1,5 @@
 ---
-title: architecture
+title: Os Architecture
 type: note
 permalink: product-development/system/os-architecture
 ---

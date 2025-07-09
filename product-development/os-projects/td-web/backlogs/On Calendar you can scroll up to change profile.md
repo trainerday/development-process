@@ -1,7 +1,7 @@
 ---
-title: On Calendar you can scroll up to change profile
+title: On calendar you can scroll up to change profile
 type: task
-permalink: product-development/os-projects/td-web/backlogs/on-calendar-you-can-scroll-up-to-change-profile
+permalink: product-development/os-projects/td-web/backlogs/On Calendar you can scroll up to change profile
 ---
 
 # On Calendar you can scroll up to change profile

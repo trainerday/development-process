@@ -1,7 +1,7 @@
 ---
-title: Plan Matching Algorithm with User and Plan Tags - Spec
+title: Plan matching algorithm with user and plan tags   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/plan-matching-algorithm-with-user-and-plan-tags-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Plan Matching Algorithm with User and Plan Tags - Spec
 ---
 
 # Plan Matching Algorithm with User and Plan Tags - Requirements

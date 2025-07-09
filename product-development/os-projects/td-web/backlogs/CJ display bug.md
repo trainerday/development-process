@@ -1,7 +1,7 @@
 ---
-title: CJ display bug
+title: CJ Display bug
 type: task
-permalink: product-development/os-projects/td-web/backlogs/cj-display-bug
+permalink: product-development/os-projects/td-web/backlogs/CJ display bug
 ---
 
 # CJ display bug

@@ -1,7 +1,7 @@
 ---
-title: Side menu CSS - make alike
+title: Side menu css   make alike
 type: task
-permalink: product-development/os-projects/td-web/backlogs/side-menu-css-make-alike
+permalink: product-development/os-projects/td-web/backlogs/Side menu CSS - make alike
 ---
 
 # Side menu CSS - make alike

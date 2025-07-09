@@ -1,7 +1,7 @@
 ---
 title: Add other ways to pay
 type: task
-permalink: product-development/os-projects/td-web/backlogs/add-other-ways-to-pay
+permalink: product-development/os-projects/td-web/backlogs/Add other ways to pay
 ---
 
 # Add other ways to pay

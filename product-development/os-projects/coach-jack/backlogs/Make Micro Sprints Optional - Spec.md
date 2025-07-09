@@ -1,7 +1,7 @@
 ---
-title: Make Micro Sprints Optional - Spec
+title: Make micro sprints optional   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/make-micro-sprints-optional-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Make Micro Sprints Optional - Spec
 ---
 
 # Make Micro Sprints Optional - Requirements

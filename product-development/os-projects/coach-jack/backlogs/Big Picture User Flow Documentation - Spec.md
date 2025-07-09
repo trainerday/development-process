@@ -1,7 +1,7 @@
 ---
-title: Big Picture User Flow Documentation - Spec
+title: Big picture user flow documentation   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/big-picture-user-flow-documentation-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Big Picture User Flow Documentation - Spec
 ---
 
 # Big Picture User Flow Documentation - Requirements

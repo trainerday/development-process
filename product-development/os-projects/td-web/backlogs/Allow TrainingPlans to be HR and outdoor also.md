@@ -1,7 +1,7 @@
 ---
-title: Allow TrainingPlans to be HR and outdoor also
+title: Allow trainingplans to be hr and outdoor also
 type: task
-permalink: product-development/os-projects/td-web/backlogs/allow-training-plans-to-be-hr-and-outdoor-also
+permalink: product-development/os-projects/td-web/backlogs/Allow TrainingPlans to be HR and outdoor also
 ---
 
 # Allow TrainingPlans to be HR and outdoor also

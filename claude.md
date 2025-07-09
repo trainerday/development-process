@@ -1,7 +1,7 @@
 ---
-title: create-new-os-project
+title: Claude
 type: note
-permalink: product-development/templates/create-new-os-project
+permalink: claude
 ---
 
 # Create OS-Project Command

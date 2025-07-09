@@ -1,5 +1,5 @@
 ---
-title: delete-account-does-not-work-new-delete-api
+title: Delete Account Does Not Work New Delete Api
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/delete-account-does-not-work-new-delete-api
 ---

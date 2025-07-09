@@ -1,5 +1,5 @@
 ---
-title: mobile-ftp-history-sync-issue
+title: Mobile Ftp History Sync Issue
 type: note
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/mobile-ftp-history-sync-issue
 ---

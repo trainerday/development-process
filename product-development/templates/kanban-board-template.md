@@ -1,5 +1,5 @@
 ---
-title: kanban-board-template
+title: Kanban Board Template
 type: note
 permalink: product-development/templates/kanban-board-template
 ---

@@ -1,7 +1,7 @@
 ---
-title: Crashing WP with tokens
+title: Crashing wp with tokens
 type: task
-permalink: product-development/os-projects/td-web/backlogs/crashing-wp-with-tokens
+permalink: product-development/os-projects/td-web/backlogs/Crashing WP with tokens
 ---
 
 # Crashing WP with tokens

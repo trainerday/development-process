@@ -1,5 +1,5 @@
 ---
-title: bug-on-tablet-save-dialog-display
+title: Bug On Tablet Save Dialog Display
 type: note
 permalink: product-development/os-projects/td-mobile/backlogs/bug-on-tablet-save-dialog-display
 ---

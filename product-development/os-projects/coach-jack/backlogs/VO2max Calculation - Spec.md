@@ -1,7 +1,7 @@
 ---
-title: VO2max Calculation - Spec
+title: Vo2max calculation   spec
 type: backlog_item
-permalink: coach-jack/backlogs/vo2max-calculation-spec
+permalink: product-development/os-projects/coach-jack/backlogs/VO2max Calculation - Spec
 ---
 
 ### The "Your Real VO2max" Adaptive Model

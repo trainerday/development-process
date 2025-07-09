@@ -1,5 +1,5 @@
 ---
-title: improving-outdoor-workout-conversion
+title: Improving Outdoor Workout Conversion
 type: backlog_item
 permalink: product-development/os-projects/td-web/backlogs-completed/backlog-specs/improving-outdoor-workout-conversion
 ---

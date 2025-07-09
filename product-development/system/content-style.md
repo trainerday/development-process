@@ -1,5 +1,5 @@
 ---
-title: content-style
+title: Content Style
 type: note
 permalink: product-development/system/content-style
 ---

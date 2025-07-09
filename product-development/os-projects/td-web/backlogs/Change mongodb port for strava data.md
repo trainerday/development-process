@@ -1,7 +1,7 @@
 ---
 title: Change mongodb port for strava data
 type: task
-permalink: product-development/os-projects/td-web/backlogs/change-mongodb-port-for-strava-data
+permalink: product-development/os-projects/td-web/backlogs/Change mongodb port for strava data
 ---
 
 # Change mongodb port for strava data

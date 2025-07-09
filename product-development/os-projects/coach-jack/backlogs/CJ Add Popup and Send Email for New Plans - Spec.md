@@ -1,7 +1,7 @@
 ---
-title: CJ Add Popup and Send Email for New Plans - Spec
+title: CJ Add popup and send email for new plans   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/cj-add-popup-and-send-email-for-new-plans-spec
+permalink: product-development/os-projects/coach-jack/backlogs/CJ Add Popup and Send Email for New Plans - Spec
 ---
 
 # CJ Add Popup and Send Email for New Plans - Requirements

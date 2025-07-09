@@ -1,7 +1,7 @@
 ---
-title: Power Zone Calculator - Spec
+title: Power zone calculator   spec
 type: note
-permalink: product-development/os-projects/cycling-calculators/backlogs/power-zone-calculator-spec
+permalink: product-development/os-projects/cycling-calculators/backlogs/Power Zone Calculator - Spec
 ---
 
 # Power Zone Calculator - Specification

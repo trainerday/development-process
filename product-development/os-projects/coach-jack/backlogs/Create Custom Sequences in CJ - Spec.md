@@ -1,7 +1,7 @@
 ---
-title: Create Custom Sequences in CJ - Spec
+title: Create custom sequences in cj   spec
 type: note
-permalink: product-development/os-projects/coach-jack/backlogs/create-custom-sequences-in-cj-spec
+permalink: product-development/os-projects/coach-jack/backlogs/Create Custom Sequences in CJ - Spec
 ---
 
 # Create Custom Sequences in CJ - Requirements

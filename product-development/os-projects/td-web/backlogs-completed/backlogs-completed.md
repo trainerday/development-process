@@ -1,7 +1,7 @@
 ---
-title: backlogs-completed
+title: Backlogs Completed
 type: note
-permalink: product-development/os-projects/td-web/backlogs-completed/backlogs-completed-1
+permalink: product-development/os-projects/td-web/backlogs-completed/backlogs-completed
 ---
 
 # Backlog Completed

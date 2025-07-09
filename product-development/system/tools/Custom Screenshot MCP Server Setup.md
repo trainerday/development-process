@@ -1,7 +1,7 @@
 ---
-title: Custom Screenshot MCP Server Setup
+title: Custom screenshot mcp server setup
 type: note
-permalink: product-development/system/tools/custom-screenshot-mcp-server-setup
+permalink: product-development/system/tools/Custom Screenshot MCP Server Setup
 ---
 
 # Custom Screenshot MCP Server Setup
