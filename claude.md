@@ -1,7 +1,7 @@
 ---
 title: create-new-os-project
 type: note
-permalink: trainer-day/templates/create-new-os-project
+permalink: product-development/templates/create-new-os-project
 ---
 
 # Create OS-Project Command
