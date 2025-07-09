@@ -1,8 +1,10 @@
 ---
+
 title: kanban-board
 type: note
 permalink: product-development/os-projects/coach-jack/kanban-board-1
 kanban-plugin: board
+
 ---
 
 ## backlog
@@ -15,7 +17,6 @@ kanban-plugin: board
 - [ ] [Make Micro Sprints Optional - Spec](Make%20Micro%20Sprints%20Optional%20-%20Spec.md)
 - [ ] [Create Custom Sequences in CJ - Spec](Create%20Custom%20Sequences%20in%20CJ%20-%20Spec.md)
 - [ ] [Big Picture User Flow Documentation - Spec](Big%20Picture%20User%20Flow%20Documentation%20-%20Spec.md)
-- [ ] [CJ AI Summary with User Tags from LLM - Spec](CJ%20AI%20Summary%20with%20User%20Tags%20from%20LLM%20-%20Spec.md)
 - [ ] [Add Localization to Questions and Summary - Spec](Add%20Localization%20to%20Questions%20and%20Summary%20-%20Spec.md)
 - [ ] [User Attributes Data Collection System - Spec](User%20Attributes%20Data%20Collection%20System%20-%20Spec.md)
 - [ ] [Individualized Difficulty Score IDS System - Spec](Individualized%20Difficulty%20Score%20IDS%20System%20-%20Spec.md)
@@ -29,7 +30,8 @@ kanban-plugin: board
 
 ## next
 
-- [ ] [CJ Update Questions Interface - Spec](CJ%20Update%20Questions%20Interface%20-%20Spec.md)
+- [ ] [CJ-AI Update Questions Interface - Spec](CJ-AI%20Update%20Questions%20Interface%20-%20Spec.md)
+- [ ] [CJ-AI Summary with User Tags from LLM - Spec](CJ-AI%20Summary%20with%20User%20Tags%20from%20LLM%20-%20Spec.md)
 
 
 ## in process

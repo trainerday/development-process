@@ -20,6 +20,10 @@ After users answer questions in the Coach Jack interface, there's no system to c
 
 **User Experience:** Users see that the system understands them through clearly displayed, accurate tags that they can review and confirm before plan generation.
 
+Here is an example profile page
+https://claude.ai/public/artifacts/fa19aa59-4748-4471-95fe-23275db64e16
+
+
 ## Interaction Mechanism
 
 **Tag Generation:**
@@ -69,6 +73,8 @@ After users answer questions in the Coach Jack interface, there's no system to c
 - Andrey will use these tags to create optimal plan matching
 - Tags serve as input to plan recommendation algorithms
 - Quality of tags directly impacts plan personalization effectiveness
+
+
 
 **Implementation Notes:**
 - Start with core tag categories and expand based on usage
