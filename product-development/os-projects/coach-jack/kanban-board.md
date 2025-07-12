@@ -25,7 +25,7 @@ kanban-plugin: board
 - [ ] [Primary Focus Identification System - Spec](Primary%20Focus%20Identification%20System%20-%20Spec.md)
 - [ ] [Periodization Function for AI Plan Generation - Spec](Periodization%20Function%20for%20AI%20Plan%20Generation%20-%20Spec.md)
 - [ ] [CJ Fix Cadence Display and Instructions - Spec](CJ%20Fix%20Cadence%20Display%20and%20Instructions%20-%20Spec.md)
-- [ ] [VO2max Calculation - Spec](VO2max%20Calculation%20-%20Spec.md)
+
 
 
 ## next

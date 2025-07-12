@@ -1,8 +1,10 @@
 ---
+
 title: Kanban Board
 type: note
 permalink: product-development/os-projects/td-web/kanban-board
 kanban-plugin: board
+
 ---
 
 ## Future (35 items)
@@ -65,11 +67,12 @@ kanban-plugin: board
 - [ ] [create-login-register-forgot-password](create-login-register-forgot-password.md)
 - [ ] [move-paypal-payments-from-rcp](move-paypal-payments-from-rcp.md)
 - [ ] [move-stripe-payments-from-rcp](move-stripe-payments-from-rcp.md)
-
 - [ ] [add-send-to-myplans-from-calendar](add-send-to-myplans-from-calendar.md)
 - [ ] [hamburger-menu-missing-safari](hamburger-menu-missing-safari.md)
 - [ ] [cadence-problem](cadence-problem.md)
 - [ ] [add-marketing-messages-on-workout-plan-pages-for-non-logged-in-users](backlogs/add-marketing-messages-on-workout-plan-pages-for-non-logged-in-users.md)
+- [ ] [VO2max - Multi-Effort Calculation](VO2max%20-%20Multi-Effort%20Calculation.md)
+- [ ] Strava Distribution Rules and Rename activity on web
 
 
 ## up next
@@ -79,8 +82,7 @@ kanban-plugin: board
 
 ## in process
 
-- [ ] [vo2max-estimate](vo2max-estimate.md)
-
+- [ ] [vo2max-single-effort-calculation](vo2max-single-effort-calculation.md)
 
 
 ## dev complete
