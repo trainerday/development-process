@@ -46,9 +46,8 @@ permalink: developer-big-picture
 - **Reality Check**: Unknown % are returning users, but even 50% new users = huge opportunity
 - **Solution**: "Try before register" could be major differentiator
 - **Industry Context**: Competitors force registration too, but TD as lesser-known brand needs to prove value first
-
-![[Pasted image 20250714200120.png]]
-
+- 
+![](Pasted%20image%2020250714200120.png)
 ### 2. 🚨 First-Time User Experience
 - **Problem**: New users face learning curve (FTP, blue bars, numbers)
 - **Reality**: 80-90% of users know this from other apps
