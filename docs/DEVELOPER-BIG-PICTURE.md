@@ -47,7 +47,9 @@ permalink: docs/developer-big-picture
 - **Solution**: "Try before register" could be major differentiator
 - **Industry Context**: Competitors force registration too, but TD as lesser-known brand needs to prove value first
 - 
-![](Pasted%20image%2020250714200120.png)
+
+![](https://i.ibb.co/0VGFqvY6/first-app-page-jpg.jpg)
+
 ### 2. 🚨 First-Time User Experience
 - **Problem**: New users face learning curve (FTP, blue bars, numbers)
 - **Reality**: 80-90% of users know this from other apps
