@@ -73,11 +73,16 @@ kanban-plugin: board
 - [ ] [add-marketing-messages-on-workout-plan-pages-for-non-logged-in-users](backlogs/add-marketing-messages-on-workout-plan-pages-for-non-logged-in-users.md)
 - [ ] [VO2max - Multi-Effort Calculation](VO2max%20-%20Multi-Effort%20Calculation.md)
 - [ ] Strava Distribution Rules and Rename activity on web
+- [ ] switch to mono-repo
+- [ ] setup anti-scraping https://app.api.trainerday.com/api/workouts/bySlug/vo2-max-1-8x4min-120
+- [ ] Private workouts throw an exception in sentry
+	https://app.api.trainerday.com/api/workouts/bySlug/benoit_ftp_-erg_test_1a
 
 
 ## up next
 
 - [ ] In the app under settings -> user account info, you have to enter the weight in kg so then it converts to lbs. It seems odd that I have to manually enter in 68.xx kg so that the app will display 150lb, when it would be more intuitive to just enter 150lb, or select an option to display in kg or lb and have the data entry format align to the option selected.
+- [ ] Switch to new mixpanel
 
 
 ## in process

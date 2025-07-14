@@ -27,11 +27,12 @@ kanban-plugin: board
 - [ ] [CJ Fix Cadence Display and Instructions - Spec](CJ%20Fix%20Cadence%20Display%20and%20Instructions%20-%20Spec.md)
 
 
-
 ## next
 
 - [ ] [CJ-AI Update Questions Interface - Spec](CJ-AI%20Update%20Questions%20Interface%20-%20Spec.md)
 - [ ] [CJ-AI Summary with User Tags from LLM - Spec](CJ-AI%20Summary%20with%20User%20Tags%20from%20LLM%20-%20Spec.md)
+- [ ] switch to new mixpanel
+- [ ] switch to mono-repo
 
 
 ## in process

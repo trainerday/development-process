@@ -1,8 +1,10 @@
 ---
+
 title: Kanban Board
 type: note
 permalink: product-development/os-projects/td-mobile/kanban-board
 kanban-plugin: board
+
 ---
 
 ## backlog
@@ -26,6 +28,8 @@ kanban-plugin: board
 
 - [ ] [[android-api-issue|Android API Issue]] - GitHub Issue #238
 - [ ] [[product-development/os-projects/td-mobile/backlogs/fix-android-15-background-performance-issue|Fix Android 15 Background Performance Issue]] - GitHub Issue #239
+- [ ] switch to new mix panel
+- [ ] switch to mono-repo
 
 
 ## in process
