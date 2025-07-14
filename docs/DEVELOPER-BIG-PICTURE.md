@@ -1,7 +1,7 @@
 ---
 title: DEVELOPER-BIG-PICTURE
 type: note
-permalink: developer-big-picture
+permalink: docs/developer-big-picture
 ---
 
 # Developer Big Picture - Updated
