@@ -15,24 +15,24 @@ permalink: docs/developer-big-picture
 ## Key Metrics - App Conversion Funnel
 
 ### Hard Numbers (Annual):
-- **App Downloads**: ~34,000 (20.1k iOS + 13.9k Android)
-- **App Registrations**: 21,194
+- **App Downloads**: Significant volume across iOS and Android
+- **App Registrations**: Majority of downloads do register
 - **Download → Registration Rate**: 62.4%
-- **Abandonment at Forced Registration**: 37.6% (12,806 people/year)
+- **Abandonment at Forced Registration**: 37.6%
 
 ### The Reality Check:
-- 37% don't register (12,806 people)
+- 37% don't register
 - ~50% of those are returning users who just login
 - Of the remaining ~18.5% who are new: 50% wouldn't use app anyway
-- **True abandoners**: ~9.25% of downloads (3,145 people/year)
+- **True abandoners**: ~9.25% of downloads
 
 ### Realistic Impact:
-- 3,145 people who are interested but won't register first
-- At 20% conversion rate: 629 new customers/year
-- **Revenue opportunity**: $31,450/year
+- Many people who are interested but won't register first
+- At 20% conversion rate: significant new customers/year
+- **Revenue opportunity**: Substantial annual recurring revenue
 
 ### Is It Worth It?
-- Development effort vs $31k/year recurring revenue
+- Development effort vs significant recurring revenue
 - Plus differentiation benefit ("the app you can actually try")
 - Plus positive word-of-mouth from better experience
 
@@ -54,7 +54,8 @@ permalink: docs/developer-big-picture
 - **Focus**: Optimize for experienced users first, beginners second
 
 ### 3. 🚨 Web Visitor Conversion
-- **Numbers**: 201k visitors → 7,707 registrations (3.8%)
+- **Web traffic**: Significant annual visitors
+- **Registration rate**: 3.8%
 - **Reality**: Better than expected, but still room for improvement
 - **Context**: Many are pre-sold from Reddit/YouTube but still don't convert
 
@@ -62,7 +63,7 @@ permalink: docs/developer-big-picture
 - **Organic Growth**: Reddit, YouTube comparisons, word-of-mouth
 - **Product Quality**: 4.7 stars, 90% positive cancellations
 - **Price Point**: Affordable alternative to TrainerRoad/Zwift
-- **User Base**: 6,127 paying users, 30% growth last winter
+- **User Base**: Strong paying user base, 30% growth last winter
 
 ## Critical Success Factors
 1. **Remove friction for pre-sold users** - They come ready to buy but hit barriers
@@ -77,4 +78,4 @@ permalink: docs/developer-big-picture
 4. **Price parity** - Already addressing app vs web pricing
 
 ## The Bottom Line
-We have great organic traffic from trusted sources (Reddit, YouTube, word-of-mouth). These pre-sold users should convert at 40-50%, not 13.8%. Removing forced registration could be the key to unlocking this value.
+We have great organic traffic from trusted sources (Reddit, YouTube, word-of-mouth). These pre-sold users should convert at 40-50%, not at current rates. Removing forced registration could be the key to unlocking this value.
