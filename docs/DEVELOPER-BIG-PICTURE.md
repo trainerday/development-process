@@ -47,6 +47,7 @@ permalink: docs/developer-big-picture
 - **Solution**: "Try before register" could be major differentiator
 - **Industry Context**: Competitors force registration too, but TD as lesser-known brand needs to prove value first
 - 
+The Skip For now is the complicated part
 
 ![](https://i.ibb.co/0VGFqvY6/first-app-page-jpg.jpg)
 
