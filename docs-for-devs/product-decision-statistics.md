@@ -17,7 +17,7 @@ Key statistics and metrics that inform product decisions, extracted from data an
 - **App Store Rating**: 4.7 stars with 3,800+ reviews
 - **Support Volume**: Only ~10 tickets/week from 6,000+ active users
 - **Cancellation Sentiment**: 90% of cancellations are positive ("I'll be back" or "can't train anymore")
-- **Product Issues**: Only 3-5% cite product problems as reason for cancellation
+- **Product Issues**: Only 3-5% cite product problems or missing features, no ai.... as reason for cancellation
 
 ### User Engagement Patterns (30-day window)
 - **New Registrations**: ~2,500/month (varies 2k-4k seasonally)

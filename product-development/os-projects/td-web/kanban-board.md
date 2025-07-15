@@ -64,6 +64,7 @@ kanban-plugin: board
 
 ## backlog
 
+- [ ] [create-ride-web-trainer](backlogs/create-ride-web-trainer.md)
 - [ ] [create-login-register-forgot-password](create-login-register-forgot-password.md)
 - [ ] [move-paypal-payments-from-rcp](move-paypal-payments-from-rcp.md)
 - [ ] [move-stripe-payments-from-rcp](move-stripe-payments-from-rcp.md)

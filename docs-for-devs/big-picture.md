@@ -32,19 +32,20 @@ permalink: docs-for-devs/big-picture
 
 ## Strategic Priorities
 
-The complete strategic framework and detailed hypotheses are documented in our **[Hypothesis Testing Backlog](docs-for-devs/hypothesis-backlog)**.
+The complete strategic framework and detailed hypotheses are documented in our **[Hypothesis Testing Backlog](docs-for-devs/hypothesis-backlog)**.  
 
 ### Priority Order:
-1. **🎯 REDUCE FRICTION** - Get registered users to actually use the product
-2. **🤖 AI PLANS** - Enhance value for engaged users
-3. **📊 OPTIMIZE CONVERSION** - Register → Paid
-4. **🔄 REDUCE CHURN** - Keep paying users engaged
-5. **📈 OPTIMIZE REGISTRATION** - Improve visitor → registration rates
+1. **📈 INCREASE ANNUAL SUBSCRIPTIONS** - Increase web price, add it to the app
+2. **🎯 REDUCE FRICTION** - Get registered users to actually use the product
+3. **🤖 AI PLANS** - Enhance value for engaged users
+4. **📊 OPTIMIZE CONVERSION** - Register → Paid
+5. **🔄 REDUCE CHURN** - Keep paying users engaged
+6. **📈 OPTIMIZE REGISTRATION** - Improve visitor → registration rates
 
 ## The New Development Approach
 
 ### From Analysis Paralysis to Hypothesis Testing
-We've moved from endless data analysis to a **hypothesis-driven approach**:
+Claude and I have moved from endless data analysis to a **hypothesis-driven approach**:
 
 - **Create hypotheses** based on user behavior and business needs
 - **Test small** with low effort, high impact experiments

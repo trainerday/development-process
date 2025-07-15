@@ -24,7 +24,7 @@ This document contains specific implementation details and technical considerati
 
 **Technical Details**:
 - Allow users to explore without registration
-- Show register/login popup when they try to save a workout
+- Show register/login popup when they try to start a workout (better would be to let them save and just turn off sync but we have no userid, maybe a generic token hardcoded or pulled from api?)
 - Add persistent but subtle registration nudges in the app
 
 **Reference Design**:
