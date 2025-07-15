@@ -77,6 +77,8 @@ kanban-plugin: board
 - [ ] setup anti-scraping https://app.api.trainerday.com/api/workouts/bySlug/vo2-max-1-8x4min-120
 - [ ] Private workouts throw an exception in sentry
 	https://app.api.trainerday.com/api/workouts/bySlug/benoit_ftp_-erg_test_1a
+- [ ] fix wahoo
+- [ ] make expired app subscriptions use new billing
 
 
 ## up next
