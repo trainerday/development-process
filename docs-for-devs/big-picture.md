@@ -1,7 +1,7 @@
 ---
 title: big-picture-updated
 type: note
-permalink: docs-for-devs/big-picture-updated
+permalink: docs-for-devs/big-picture
 ---
 
 # Developer Big Picture - Strategic Overview
