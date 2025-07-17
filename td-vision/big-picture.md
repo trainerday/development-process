@@ -26,3 +26,20 @@ When working with Claude on TrainerDay:
 ## Notes
 
 *Add your Claude-related notes and workflows here*
+
+
+## IMPORTANT: Link Format for Obsidian
+
+When creating links in the priority-list to backlogs and tasks, ALWAYS use the actual file title format, NOT the permalink format.
+
+**CORRECT format:**
+```
+[[Web - Improve UX - Button Consistency|Backlog]] [[Web - Improve UX - Button Consistency - Tasks|Tasks]]
+```
+
+**WRONG format (will create new files instead of linking):**
+```
+[[dev-priorities/backlogs/web-improve-ux-button-consistency|Backlog]] [[dev-priorities/tasks/web-improve-ux-button-consistency-tasks|Tasks]]
+```
+
+The link text inside the brackets must match the exact title of the file as it appears in the file system, including proper capitalization and spacing. Using permalink format will cause Obsidian to create duplicate files instead of linking to existing ones.

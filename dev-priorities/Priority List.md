@@ -16,18 +16,18 @@ Priority list for developers - work from the top down.
 
 ## Priority List
 
-1. Web - Improve UX - Button Consistency (AlexK) [[dev-priorities/backlogs/web-improve-ux-button-consistency|Backlog]] [[dev-priorities/tasks/web-improve-ux-button-consistency-tasks|Tasks]]
-2. Web - Improve Pricing page (AlexK) [[dev-priorities/backlogs/web-improve-pricing-page|Backlog]] [[dev-priorities/tasks/web-improve-pricing-page-tasks|Tasks]]
-3. App - Upgrade React Native (Grigory) [[dev-priorities/backlogs/app-upgrade-react-native|Backlog]] [[dev-priorities/tasks/app-upgrade-react-native-tasks|Tasks]]
-4. App - Add Calendar With Website Features (Rodion) [[dev-priorities/backlogs/app-add-calendar-with-website-features|Backlog]] [[dev-priorities/tasks/app-add-calendar-with-website-features-tasks|Tasks]]
-5. Web-Trainer - Polish it and add youtube play list (AlexV) [[dev-priorities/backlogs/web-trainer-polish-it-and-add-youtube-play-list|Backlog]] [[dev-priorities/tasks/web-trainer-polish-it-and-add-youtube-play-list-tasks|Tasks]]
-6. Web-Trainer - Beta Launch simple BLE web player (AlexV) [[dev-priorities/backlogs/web-trainer-beta-launch-simple-ble-web-player|Backlog]] [[dev-priorities/tasks/web-trainer-beta-launch-simple-ble-web-player-tasks|Tasks]]
-7. App - Improve Performance - Android 15 dies in background [[dev-priorities/backlogs/app-improve-performance-android-15-dies-in-background|Backlog]] [[dev-priorities/tasks/app-improve-performance-android-15-dies-in-background-tasks|Tasks]]
-8. App - Improve the login/register page [[dev-priorities/backlogs/app-improve-the-login-register-page|Backlog]] [[dev-priorities/tasks/app-improve-the-login-register-page-tasks|Tasks]] 
-9. App - Improve UX - Button Consistency (need Henry to design this first) [[dev-priorities/backlogs/app-improve-ux-button-consistency|Backlog]] [[dev-priorities/tasks/app-improve-ux-button-consistency-tasks|Tasks]]
-10. App - Allow skipping registration/login [[dev-priorities/backlogs/app-allow-skipping-registration-login|Backlog]] [[dev-priorities/tasks/app-allow-skipping-registration-login-tasks|Tasks]]
-11. Web - Fix Send to Garmin (AlexK) [[dev-priorities/backlogs/web-fix-send-to-garmin|Backlog]] [[dev-priorities/tasks/web-fix-send-to-garmin-tasks|Tasks]]
-12. Web(td.com) - Make site static (AlexV) [[dev-priorities/backlogs/web-td-com-make-site-static|Backlog]] [[dev-priorities/tasks/web-td-com-make-site-static-tasks|Tasks]]
+1. Web - Improve UX - Button Consistency (AlexK) [[Web - Improve UX - Button Consistency|Backlog]] [[Web - Improve UX - Button Consistency - Tasks|Tasks]]
+2. Web - Improve Pricing page (AlexK) [[Web - Improve Pricing page|Backlog]] [[Web - Improve Pricing page - Tasks|Tasks]]
+3. App - Upgrade React Native (Grigory) [[App - Upgrade React Native|Backlog]] [[App - Upgrade React Native - Tasks|Tasks]]
+4. App - Add Calendar With Website Features (Rodion) [[App - Add Calendar With Website Features|Backlog]] [[App - Add Calendar With Website Features - Tasks|Tasks]]
+5. Web-Trainer - Polish it and add youtube play list (AlexV) [[Web-Trainer - Polish it and add youtube play list|Backlog]] [[Web-Trainer - Polish it and add youtube play list - Tasks|Tasks]]
+6. Web-Trainer - Beta Launch simple BLE web player (AlexV) [[Web-Trainer - Beta Launch simple BLE web player|Backlog]] [[Web-Trainer - Beta Launch simple BLE web player - Tasks|Tasks]]
+7. App - Improve Performance - Android 15 dies in background [[App - Improve Performance - Android 15 dies in background|Backlog]] [[App - Improve Performance - Android 15 dies in background - Tasks|Tasks]]
+8. App - Improve the login/register page [[App - Improve the login register page|Backlog]] [[App - Improve the login register page - Tasks|Tasks]] 
+9. App - Improve UX - Button Consistency (need Henry to design this first) [[App - Improve UX - Button Consistency|Backlog]] [[App - Improve UX - Button Consistency - Tasks|Tasks]]
+10. App - Allow skipping registration/login [[App - Allow skipping registration login|Backlog]] [[App - Allow skipping registration login - Tasks|Tasks]]
+11. Web - Fix Send to Garmin (AlexK) [[Web - Fix Send to Garmin|Backlog]] [[Web - Fix Send to Garmin - Tasks|Tasks]]
+12. Web(td.com) - Make site static (AlexV) [[Web(td.com) - Make site static|Backlog]] [[Web(td.com) - Make site static - Tasks|Tasks]]
 
 ---
 
