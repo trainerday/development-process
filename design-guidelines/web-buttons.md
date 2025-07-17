@@ -1,7 +1,7 @@
 ---
 title: web-buttons
 type: note
-permalink: web-buttons
+permalink: design-guidelines/web-buttons
 ---
 
 # Web Buttons
