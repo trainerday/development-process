@@ -12,6 +12,7 @@ Make mobile version have a selector
 Change color to TD red, not orange like it is now.
 
 Monthly
+
 All Pro features including
  ✓ Full featured Training App
  ✓ Coach Jack plan builder
