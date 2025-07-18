@@ -28,6 +28,7 @@ Priority list for developers - work from the top down.
 10. App - Allow skipping registration/login [[App - Allow skipping registration login|Backlog]] [[App - Allow skipping registration login - Tasks|Tasks]]
 11. Web - Fix Send to Garmin (AlexK) [[Web - Fix Send to Garmin|Backlog]] [[Web - Fix Send to Garmin - Tasks|Tasks]]
 12. Web(td.com) - Make site static (AlexV) [[Web(td.com) - Make site static|Backlog]] [[Web(td.com) - Make site static - Tasks|Tasks]]
+13. Web - VO2max (AlexK) [[Web - VO2max|Backlog]] [[Web - VO2max - Tasks|Tasks]]
 
 ---
 

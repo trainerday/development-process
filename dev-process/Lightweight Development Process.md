@@ -6,6 +6,13 @@ permalink: dev-process/lightweight-development-process
 
 # Lightweight Development Process
 
+## Improvement Goals
+- Improve and simplify the quality of task/pr descriptions and general process of github
+- Get developers more involved in the design process
+- Determine ways that each person can work with Claude / AI to optimize their workflows
+- Reduce work in progress (WIP) and make it transparent what each person gets done each week
+
+
 ## Core Cycle
 - **Monday**: Demo last week's work, plan this week's priorities
 - **Thursday**: Progress check, surface blockers
@@ -24,7 +31,7 @@ permalink: dev-process/lightweight-development-process
 5. Demos progress Monday
 
 ## Tools
-- **Obsidian**: Backlog planning and strategic kanbans (PO only)
+- **Obsidian**: Backlog planning (Alex)
 - **GitHub Issues**: Active work tracking (single board, all projects)
 - **Priority List**: Bridge between planning and execution
 - **LLMs**: Better task definitions and breakdowns
