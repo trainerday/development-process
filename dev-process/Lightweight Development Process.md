@@ -7,7 +7,7 @@ permalink: dev-process/lightweight-development-process
 # Lightweight Development Process
 
 ## Improvement Goals
-- Improve and simplify the quality of task/pr descriptions and general process of github
+- Improve the quality of task/pr descriptions and general process of github
 - Get developers more involved in the design process
 - Determine ways that each person can work with Claude / AI to optimize their workflows
 - Reduce work in progress (WIP) and make it transparent what each person gets done each week
