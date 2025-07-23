@@ -25,13 +25,12 @@ Priority list for developers - work from the top down.
 7. App - Improve the login/register page [[App - Improve the login register page|Backlog]] [[App - Improve the login register page - Tasks|Tasks]] 
 8. App - Improve UX - Button Consistency (need Henry to design this first) [[App - Improve UX - Button Consistency|Backlog]] [[App - Improve UX - Button Consistency - Tasks|Tasks]]
 9. App - Allow skipping registration/login [[App - Allow skipping registration login|Backlog]] [[App - Allow skipping registration login - Tasks|Tasks]]
-10. Web - Fix Send to Garmin (AlexK) [[Web - Fix Send to Garmin|Backlog]] [[Web - Fix Send to Garmin - Tasks|Tasks]]
-11. Web(td.com) - Make site static (AlexV) [[Web(td.com) - Make site static|Backlog]] [[Web(td.com) - Make site static - Tasks|Tasks]]
-12. Web - Move Stripe and Paypal out of Wordpress [[Web - Move Stripe and Paypal out of Wordpress|Backlog]] [[Web - Move Stripe and Paypal out of Wordpress - Tasks|Tasks]]
-13. Web - Add the Discount Codes (bulk single use and multi-use)
-14. Web - Switch API and Forum Oauth to use one from the webapp
-15. Web - Create Register API, Login API, Forgot PWD api with change
-16. Web - VO2max (AlexK) [[Web - VO2max|Backlog]] [[Web - VO2max - Tasks|Tasks]]
+10. Web(td.com) - Make site static (AlexV) [[Web(td.com) - Make site static|Backlog]] [[Web(td.com) - Make site static - Tasks|Tasks]]
+11. Web - Move Stripe and Paypal out of Wordpress [[Web - Move Stripe and Paypal out of Wordpress|Backlog]] [[Web - Move Stripe and Paypal out of Wordpress - Tasks|Tasks]]
+12. Web - Add the Discount Codes (bulk single use and multi-use)
+13. Web - Switch API and Forum Oauth to use one from the webapp
+14. Web - Create Register API, Login API, Forgot PWD api with change
+15. Web - VO2max (AlexK) [[Web - VO2max|Backlog]] [[Web - VO2max - Tasks|Tasks]]
 
 ---
 
